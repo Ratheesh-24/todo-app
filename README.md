@@ -1,3 +1,10 @@
+
+A react Todo App That will display the Todo list according to the User and also it
+has dark theme works accordingly to the User.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
